@@ -35,7 +35,6 @@ vegetarian meals at cozy environments.
         <li><a href="https://github.com/nitinkadam70">@Nitin Kadam</a></li>
          <li><a href="https://github.com/rk6093720">Rohit Kumar</a></li>
         <li><a href="https://github.com/sshilpi110">@sshilpi110</a></li>
-
         <li>@Vaibhav jadhav</a></li>
         <li>@Deboshree Ghosh</a></li>
         
