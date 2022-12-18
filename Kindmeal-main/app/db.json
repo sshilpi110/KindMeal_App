@@ -1,0 +1,2416 @@
+{
+  "formData": [],
+  "directory": [
+    {
+      "id": 1,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Selangore"
+    },
+    {
+      "id": 2,
+      "name": "Ba Xian Vegetarian Court",
+      "description": "We serve delicious home-cooked vegetarian meals, crafted with the healthiest ingredients and plenty of love. We also sell natural, handmade clay and wooden Buddhist crafts, health supplements, and homemade beauty products.",
+      "address": "15, Jalan 12/144A, Taman Bukit Cheras , 56000 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Fri - Wed: 9am - 4pm; Thu: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Kuala Lumpur"
+    },
+    {
+      "id": 3,
+      "name": "Annalakshmi Vegetarian Restaurant",
+      "address": "114-116, Jalan Berhala, Brickfields, Kuala Lumpur, 50470, Wilayah Persekutuan",
+      "phone": "03-22723799, 03-22843799",
+      "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Johor"
+    },
+    {
+      "id": 4,
+      "name": "Ba Xian Vegetarian Court",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "12,14,14-1, Persiaran Mergatua, Kepong Baru, Kuala Lumpur, 52100, Wilayah Persekutuan",
+      "phone": "03-62778052",
+      "opening": "Daily: 6:30am - 9:00pm",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Kedah"
+    },
+    {
+      "id": 5,
+      "name": "AENON The Health Kitchen",
+      "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of lifestyle that focuses not only on health and well-being, our Berjaya Cafe brings you the",
+      "address": "Level 14 West, Berjaya Times Square Hotel, No. 1, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Daily: 6:30am - 9:00pm",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Melaka"
+    },
+    {
+      "id": 6,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Melaka"
+    },
+    {
+      "id": 7,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Pehang"
+    },
+    {
+      "id": 8,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Pehang"
+    },
+    {
+      "id": 9,
+      "name": "Biogreen Kepong Bukit Maluri",
+      "description": "Made Fresh, Eat Fresh Every Day at Valentime! Valentime by Biogreen is a bakery that bakes only organic and healthy bread using the best ingredients including organic unbleached flour, unr",
+      "address": "No. 9 Jalan Burung Tiung, Taman Bukit Maluri, 52100 Kepong, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Mon-Sat: 10am - 7.30pm (Valentime Bread Available Mon-Sat 10am-7.30pm)",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Melaka"
+    },
+    {
+      "id": 10,
+      "name": "Blue Boy Vegetarian Food Centre",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "6001 Blue Boy Mansion, Jalan Tong Shin (at Jalan Pudu Lama), Kuala Lumpur, 55100, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Selangore"
+    },
+    {
+      "id": 11,
+      "name": "Ahimsa",
+      "description": "Ahimsa Vege Health Food Industries Sdn Bhd is a company with a fresh vision to infuse innovation and health technology into local vegetarian food. Our team of professionals includes enviro",
+      "address": "17, Jalan Kesuma 2/3, Bandar Tasik Kesuma, 43700 Beranang, Selangor",
+      "phone": "03-8723 2862 / 016-2013949 / 016-2132949 / 016-3303949",
+      "opening": "Mon - Fri: Monday - Friday: 9am - 6pm; Closed: Sat - Sun",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "catagory": "Johor"
+    },
+    {
+      "id": 12,
+      "name": "Alice Kitchen By Yishensu",
+      "description": "Alice Kitchen wishes to offer our personal rendition of fusion vegetarian and vegan gourmet cuisine with an innovative gastronomic take on traditional and modern days non-meat food cultur",
+      "address": "Lot CC-65A, Concourse Floor, Lot CC-65A, Concourse Floor, Tropicana Gardens Mall, No2A, Persiaran Surian, Tropicana Indah, 47810 Petaling Jaya, Selangor",
+      "phone": "017-3909180 / 012-5073013",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Kedah"
+    },
+    {
+      "id": 13,
+      "name": "Asia Cafe Food Stall 45",
+      "address": "Jalan SS15 (at next to Taylor Intertiol College), Subang Jaya, 47500, Selangor",
+      "phone": "017-3909180",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "catagory": "Kedah",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "id": 14,
+      "name": "Anew Organic Shop",
+      "address": "35, Ground Floor, Jalan USJ10/1E, Subang Jaya, 47620, Selangor",
+      "phone": "017-3909180 / 012-5073013",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "catagory": "Melaka",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "id": 15,
+      "name": "Annalakshmi Vegetarian Restaurant",
+      "address": "114-116, Jalan Berhala, Brickfields, Kuala Lumpur, 50470, Wilayah Persekutuan",
+      "phone": "03-22723799, 03-22843799",
+      "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
+      "catagory": "Selangore",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "id": 16,
+      "name": "Ba Xian Vegetarian Court",
+      "address": "12,14,14-1, Persiaran Mergatua, Kepong Baru, Kuala Lumpur, 52100, Wilayah Persekutuan",
+      "phone": "017-3909180 / 012-5073013",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "catagory": "Pehang",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "address": "asas",
+      "phone": "3434534534",
+      "email": "343434@afaf.xcom",
+      "opening": " Mon - Fri: 10am - 9pm; Sat - Sun: 10am - 10pm",
+      "visit": "www.debu.com",
+      "catagory": "Kedah",
+      "description": "We serve delicious home-cooked vegetarian meals, crafted with the healthiest ingredients and plenty of love. We also sell natural, handmade clay and wooden Buddhist crafts, health suppleme",
+      "id": 17
+    },
+    {
+      "name": "Lalu-Bhulu",
+      "address": "Patna, Bihar",
+      "phone": "3434534534",
+      "email": "343434@afaf.xcom",
+      "opening": " Mon - Fri: 10am - 9pm; Sat - Sun: 10am - 10pm",
+      "map": "www",
+      "catagory": "Selangore",
+      "description": "hajnjndbsdas",
+      "id": 18
+    },
+    {
+      "id": 1,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Selangore"
+    },
+    {
+      "id": 2,
+      "name": "Ba Xian Vegetarian Court",
+      "description": "We serve delicious home-cooked vegetarian meals, crafted with the healthiest ingredients and plenty of love. We also sell natural, handmade clay and wooden Buddhist crafts, health supplements, and homemade beauty products.",
+      "address": "15, Jalan 12/144A, Taman Bukit Cheras , 56000 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Fri - Wed: 9am - 4pm; Thu: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Kuala Lumpur"
+    },
+    {
+      "id": 3,
+      "name": "Annalakshmi Vegetarian Restaurant",
+      "address": "114-116, Jalan Berhala, Brickfields, Kuala Lumpur, 50470, Wilayah Persekutuan",
+      "phone": "03-22723799, 03-22843799",
+      "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Johor"
+    },
+    {
+      "id": 4,
+      "name": "Ba Xian Vegetarian Court",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "12,14,14-1, Persiaran Mergatua, Kepong Baru, Kuala Lumpur, 52100, Wilayah Persekutuan",
+      "phone": "03-62778052",
+      "opening": "Daily: 6:30am - 9:00pm",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Kedah"
+    },
+    {
+      "id": 5,
+      "name": "AENON The Health Kitchen",
+      "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of lifestyle that focuses not only on health and well-being, our Berjaya Cafe brings you the",
+      "address": "Level 14 West, Berjaya Times Square Hotel, No. 1, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Daily: 6:30am - 9:00pm",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Melaka"
+    },
+    {
+      "id": 6,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Melaka"
+    },
+    {
+      "id": 7,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Pehang"
+    },
+    {
+      "id": 8,
+      "name": "AENON The Health Kitchen",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Pehang"
+    },
+    {
+      "id": 9,
+      "name": "Biogreen Kepong Bukit Maluri",
+      "description": "Made Fresh, Eat Fresh Every Day at Valentime! Valentime by Biogreen is a bakery that bakes only organic and healthy bread using the best ingredients including organic unbleached flour, unr",
+      "address": "No. 9 Jalan Burung Tiung, Taman Bukit Maluri, 52100 Kepong, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Mon-Sat: 10am - 7.30pm (Valentime Bread Available Mon-Sat 10am-7.30pm)",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Melaka"
+    },
+    {
+      "id": 10,
+      "name": "Blue Boy Vegetarian Food Centre",
+      "description": "AENON Health Kitchen, a hygienic restaurant that provides simple, palatable, wholesome & healthy food at affordable prices. We are dedicated in offering an extraordinary dining experience and providing consumers the opportunity to learn on healthy lifestyle. Health is a choice, not a chance!",
+      "address": "6001 Blue Boy Mansion, Jalan Tong Shin (at Jalan Pudu Lama), Kuala Lumpur, 55100, Wilayah Persekutuan",
+      "phone": "03 - 9201 0972",
+      "opening": "Sun - Thu: 11am - 3pm & 6pm - 9pm; Fri - Sat: Closed",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Selangore"
+    },
+    {
+      "id": 11,
+      "name": "Ahimsa",
+      "description": "Ahimsa Vege Health Food Industries Sdn Bhd is a company with a fresh vision to infuse innovation and health technology into local vegetarian food. Our team of professionals includes enviro",
+      "address": "17, Jalan Kesuma 2/3, Bandar Tasik Kesuma, 43700 Beranang, Selangor",
+      "phone": "03-8723 2862 / 016-2013949 / 016-2132949 / 016-3303949",
+      "opening": "Mon - Fri: Monday - Friday: 9am - 6pm; Closed: Sat - Sun",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "catagory": "Johor"
+    },
+    {
+      "id": 12,
+      "name": "Alice Kitchen By Yishensu",
+      "description": "Alice Kitchen wishes to offer our personal rendition of fusion vegetarian and vegan gourmet cuisine with an innovative gastronomic take on traditional and modern days non-meat food cultur",
+      "address": "Lot CC-65A, Concourse Floor, Lot CC-65A, Concourse Floor, Tropicana Gardens Mall, No2A, Persiaran Surian, Tropicana Indah, 47810 Petaling Jaya, Selangor",
+      "phone": "017-3909180 / 012-5073013",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+      "visit": "https://mobile.kindmeal.my/#!p=shop&v=362",
+      "catagory": "Kedah"
+    },
+    {
+      "id": 13,
+      "name": "Asia Cafe Food Stall 45",
+      "address": "Jalan SS15 (at next to Taylor Intertiol College), Subang Jaya, 47500, Selangor",
+      "phone": "017-3909180",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "catagory": "Kedah",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "id": 14,
+      "name": "Anew Organic Shop",
+      "address": "35, Ground Floor, Jalan USJ10/1E, Subang Jaya, 47620, Selangor",
+      "phone": "017-3909180 / 012-5073013",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "catagory": "Melaka",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "id": 15,
+      "name": "Annalakshmi Vegetarian Restaurant",
+      "address": "114-116, Jalan Berhala, Brickfields, Kuala Lumpur, 50470, Wilayah Persekutuan",
+      "phone": "03-22723799, 03-22843799",
+      "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
+      "catagory": "Selangore",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "id": 16,
+      "name": "Ba Xian Vegetarian Court",
+      "address": "12,14,14-1, Persiaran Mergatua, Kepong Baru, Kuala Lumpur, 52100, Wilayah Persekutuan",
+      "phone": "017-3909180 / 012-5073013",
+      "opening": "Mon - Sun: 11am - 9pm",
+      "catagory": "Pehang",
+      "map": "https://maps.google.com/maps?width=900&amp;height=800&amp;hl=en&amp;q=1, Jalan 4/93, Taman Miharja, Jalan Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "address": "asas",
+      "phone": "3434534534",
+      "email": "343434@afaf.xcom",
+      "opening": " Mon - Fri: 10am - 9pm; Sat - Sun: 10am - 10pm",
+      "visit": "www.debu.com",
+      "catagory": "Kedah",
+      "description": "We serve delicious home-cooked vegetarian meals, crafted with the healthiest ingredients and plenty of love. We also sell natural, handmade clay and wooden Buddhist crafts, health suppleme",
+      "id": 17
+    },
+    {
+      "name": "Lalu-Bhulu",
+      "address": "Patna, Bihar",
+      "phone": "3434534534",
+      "email": "343434@afaf.xcom",
+      "opening": " Mon - Fri: 10am - 9pm; Sat - Sun: 10am - 10pm",
+      "map": "www",
+      "catagory": "Selangore",
+      "description": "hajnjndbsdas",
+      "id": 18
+    }
+  ],
+
+  "articles": [
+    {
+      "id": 1,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19752-l.jpg",
+      "title": "Rescue Rooster Loves To Chase His Favorite Girl Around The House",
+      "by": "by KindMeal.my",
+      "para": "Loyal rooster loves to chase his favorite girl around the house — and snuggle on her lap while she's doing her homework ❤️",
+      "date": "04 May 2022",
+      "ifr": "https://www.facebook.com/plugins/video.php?allowfullscreen=true&app_id=292733157519852&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3e30d82f0c7738%26domain%3Dwww.kindmeal.my%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.kindmeal.my%252Ff272d359ee15ee%26relation%3Dparent.parent&container_width=756&height=400&href=https%3A%2F%2Fwww.facebook.com%2Fsoulmatesdodo%2Fvideos%2F491849209300866%2F&locale=en_US&sdk=joey"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19748-l.jpg",
+      "title": "Hummus Pasta 🍝",
+      "by": "by KindMeal.my",
+      "para": "Try this budget-friendly hummus pasta!",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19747-l.jpg",
+      "title": "Wishing Our Dearest Muslim Friends A Safe, Joyful And Heartwarming Hari Raya Aid..",
+      "by": "by KindMeal.my",
+      "para": "Wishing our dearest Muslim friends a safe, joyful and heartwarming Hari Raya Aidilfitri! ❤️ Enjoy a funtastic holiday, drive safely, and remember to keep your beloved pets safe and sound. Install our PetFinder.my app to send these cute Raya WhatsApp stickers:",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19745-l.jpg",
+      "title": "Avocados Reduce The Risk Of Heart Disease, Study Shows",
+      "by": "by KindMeal.my",
+      "para": "🥑",
+      "date": "04 May 2022"
+    },
+    {
+      "id": 5,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19754-l.jpg",
+      "title": "Its Pretty Simple When You Think About It, Going Vegan Is The Right Thing To Do...",
+      "by": "by Compassion Over Killing",
+      "para": "It’s pretty simple when you think about it, going vegan is the right thing to do. #GoVegan and keep animals off your plate.",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 6,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19753-l.jpg",
+      "title": "Animals Are Not Meals. Cows Farmed For Meat Are Subjected To Torment Their Entir..",
+      "by": "by Compassion Over Killing",
+      "para": "Animals are not meals. Cows farmed for meat are subjected to torment their entire lives. It's cruel - these sentient beings deserve happy, healthy lives of freedom. Find out more about what #cows in the animal agriculture industry endure here: Image Credit: Tom Wollard / We Animals Media",
+      "date": "08 May 2022"
+    },
+    {
+      "id": 7,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19751-l.jpg",
+      "title": "A Prison Inmate In A Pre-release Work Program Was The First Recorded Human Case Of The Bird Flu In The Us",
+      "by": "by Compassion Over Killing",
+      "para": "With this recent news confirming avian influenza crossover to humans, we can no longer ignore the uncomfortable truth the industry has been unwilling to take accountability for: the basic business model of the poultry industry is to blame for manufacturing these viruses, said our Executive Directo..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 8,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19749-l.jpg",
+      "title": "January-march 2022 Impact | Animal Equality",
+      "by": "by Animal Equality",
+      "para": "Together, we’ve made significant strides to help animals in 2022. Just this year, we have released 3 investigations, convinced 18 companies to improve standards for animals, and have impacted over 22 million animals. We could not have done this without your support. Read more about what you've helpe..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 9,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19750-l.jpg",
+      "title": "In 2015, An Animal Outlook Investigator Documented The Shocking Horrors Forced U..",
+      "by": "by Compassion Over Killing",
+      "para": "In 2015, an Animal Outlook investigator documented the shocking horrors forced upon baby birds including sick, injured, or weak birds. Inside a Foster Farms turkey hatchery in Fresno, California these birds were set aside and either dumped into a machine to be ground up alive or gassed to death in p..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 10,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19746-l.jpg",
+      "title": "Farmed Animals How Can You Help Them Right Now?. If You Care About Animals Or Wa..",
+      "by": "by Compassion Over Killing",
+      "para": "Farmed animals: How can you help them — right now? If you care about animals or want to learn the truth about the cruel realities of animal agriculture, now is the time to get involved in the animal rights movement. Here are five easy ways to get started:",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 11,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19748-l.jpg",
+      "title": "Hummus Pasta 🍝",
+      "by": "by KindMeal.my",
+      "para": "Try this budget-friendly hummus pasta!",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 12,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19747-l.jpg",
+      "title": "Wishing Our Dearest Muslim Friends A Safe, Joyful And Heartwarming Hari Raya Aid..",
+      "by": "by KindMeal.my",
+      "para": "Wishing our dearest Muslim friends a safe, joyful and heartwarming Hari Raya Aidilfitri! ❤️ Enjoy a funtastic holiday, drive safely, and remember to keep your beloved pets safe and sound. Install our PetFinder.my app to send these cute Raya WhatsApp stickers:",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 13,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19745-l.jpg",
+      "title": "Avocados Reduce The Risk Of Heart Disease, Study Shows",
+      "by": "by KindMeal.my",
+      "para": "🥑",
+      "date": "04 May 2022"
+    },
+    {
+      "id": 14,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19754-l.jpg",
+      "title": "Its Pretty Simple When You Think About It, Going Vegan Is The Right Thing To Do...",
+      "by": "by Compassion Over Killing",
+      "para": "It’s pretty simple when you think about it, going vegan is the right thing to do. #GoVegan and keep animals off your plate.",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 15,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19753-l.jpg",
+      "title": "Animals Are Not Meals. Cows Farmed For Meat Are Subjected To Torment Their Entir..",
+      "by": "by Compassion Over Killing",
+      "para": "Animals are not meals. Cows farmed for meat are subjected to torment their entire lives. It's cruel - these sentient beings deserve happy, healthy lives of freedom. Find out more about what #cows in the animal agriculture industry endure here: Image Credit: Tom Wollard / We Animals Media",
+      "date": "08 May 2022"
+    },
+    {
+      "id": 16,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19751-l.jpg",
+      "title": "A Prison Inmate In A Pre-release Work Program Was The First Recorded Human Case Of The Bird Flu In The Us",
+      "by": "by Compassion Over Killing",
+      "para": "With this recent news confirming avian influenza crossover to humans, we can no longer ignore the uncomfortable truth the industry has been unwilling to take accountability for: the basic business model of the poultry industry is to blame for manufacturing these viruses, said our Executive Directo..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 17,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19749-l.jpg",
+      "title": "January-march 2022 Impact | Animal Equality",
+      "by": "by Animal Equality",
+      "para": "Together, we’ve made significant strides to help animals in 2022. Just this year, we have released 3 investigations, convinced 18 companies to improve standards for animals, and have impacted over 22 million animals. We could not have done this without your support. Read more about what you've helpe..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 18,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19750-l.jpg",
+      "title": "In 2015, An Animal Outlook Investigator Documented The Shocking Horrors Forced U..",
+      "by": "by Compassion Over Killing",
+      "para": "In 2015, an Animal Outlook investigator documented the shocking horrors forced upon baby birds including sick, injured, or weak birds. Inside a Foster Farms turkey hatchery in Fresno, California these birds were set aside and either dumped into a machine to be ground up alive or gassed to death in p..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 19,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19746-l.jpg",
+      "title": "Farmed Animals How Can You Help Them Right Now?. If You Care About Animals Or Wa..",
+      "by": "by Compassion Over Killing",
+      "para": "Farmed animals: How can you help them — right now? If you care about animals or want to learn the truth about the cruel realities of animal agriculture, now is the time to get involved in the animal rights movement. Here are five easy ways to get started:",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 20,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19748-l.jpg",
+      "title": "Hummus Pasta 🍝",
+      "by": "by KindMeal.my",
+      "para": "Try this budget-friendly hummus pasta!",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 21,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19747-l.jpg",
+      "title": "Wishing Our Dearest Muslim Friends A Safe, Joyful And Heartwarming Hari Raya Aid..",
+      "by": "by KindMeal.my",
+      "para": "Wishing our dearest Muslim friends a safe, joyful and heartwarming Hari Raya Aidilfitri! ❤️ Enjoy a funtastic holiday, drive safely, and remember to keep your beloved pets safe and sound. Install our PetFinder.my app to send these cute Raya WhatsApp stickers:",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 22,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19745-l.jpg",
+      "title": "Avocados Reduce The Risk Of Heart Disease, Study Shows",
+      "by": "by KindMeal.my",
+      "para": "🥑",
+      "date": "04 May 2022"
+    },
+    {
+      "id": 23,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19754-l.jpg",
+      "title": "Its Pretty Simple When You Think About It, Going Vegan Is The Right Thing To Do...",
+      "by": "by Compassion Over Killing",
+      "para": "It’s pretty simple when you think about it, going vegan is the right thing to do. #GoVegan and keep animals off your plate.",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 24,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19753-l.jpg",
+      "title": "Animals Are Not Meals. Cows Farmed For Meat Are Subjected To Torment Their Entir..",
+      "by": "by Compassion Over Killing",
+      "para": "Animals are not meals. Cows farmed for meat are subjected to torment their entire lives. It's cruel - these sentient beings deserve happy, healthy lives of freedom. Find out more about what #cows in the animal agriculture industry endure here: Image Credit: Tom Wollard / We Animals Media",
+      "date": "08 May 2022"
+    },
+    {
+      "id": 25,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19751-l.jpg",
+      "title": "A Prison Inmate In A Pre-release Work Program Was The First Recorded Human Case Of The Bird Flu In The Us",
+      "by": "by Compassion Over Killing",
+      "para": "With this recent news confirming avian influenza crossover to humans, we can no longer ignore the uncomfortable truth the industry has been unwilling to take accountability for: the basic business model of the poultry industry is to blame for manufacturing these viruses, said our Executive Directo..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 26,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19749-l.jpg",
+      "title": "January-march 2022 Impact | Animal Equality",
+      "by": "by Animal Equality",
+      "para": "Together, we’ve made significant strides to help animals in 2022. Just this year, we have released 3 investigations, convinced 18 companies to improve standards for animals, and have impacted over 22 million animals. We could not have done this without your support. Read more about what you've helpe..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 27,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19750-l.jpg",
+      "title": "In 2015, An Animal Outlook Investigator Documented The Shocking Horrors Forced U..",
+      "by": "by Compassion Over Killing",
+      "para": "In 2015, an Animal Outlook investigator documented the shocking horrors forced upon baby birds including sick, injured, or weak birds. Inside a Foster Farms turkey hatchery in Fresno, California these birds were set aside and either dumped into a machine to be ground up alive or gassed to death in p..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 28,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19746-l.jpg",
+      "title": "Farmed Animals How Can You Help Them Right Now?. If You Care About Animals Or Wa..",
+      "by": "by Compassion Over Killing",
+      "para": "Farmed animals: How can you help them — right now? If you care about animals or want to learn the truth about the cruel realities of animal agriculture, now is the time to get involved in the animal rights movement. Here are five easy ways to get started:",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 29,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19748-l.jpg",
+      "title": "Hummus Pasta 🍝",
+      "by": "by KindMeal.my",
+      "para": "Try this budget-friendly hummus pasta!",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 30,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19747-l.jpg",
+      "title": "Wishing Our Dearest Muslim Friends A Safe, Joyful And Heartwarming Hari Raya Aid..",
+      "by": "by KindMeal.my",
+      "para": "Wishing our dearest Muslim friends a safe, joyful and heartwarming Hari Raya Aidilfitri! ❤️ Enjoy a funtastic holiday, drive safely, and remember to keep your beloved pets safe and sound. Install our PetFinder.my app to send these cute Raya WhatsApp stickers:",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 31,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19745-l.jpg",
+      "title": "Avocados Reduce The Risk Of Heart Disease, Study Shows",
+      "by": "by KindMeal.my",
+      "para": "🥑",
+      "date": "04 May 2022"
+    },
+    {
+      "id": 32,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19754-l.jpg",
+      "title": "Its Pretty Simple When You Think About It, Going Vegan Is The Right Thing To Do...",
+      "by": "by Compassion Over Killing",
+      "para": "It’s pretty simple when you think about it, going vegan is the right thing to do. #GoVegan and keep animals off your plate.",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 33,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19753-l.jpg",
+      "title": "Animals Are Not Meals. Cows Farmed For Meat Are Subjected To Torment Their Entir..",
+      "by": "by Compassion Over Killing",
+      "para": "Animals are not meals. Cows farmed for meat are subjected to torment their entire lives. It's cruel - these sentient beings deserve happy, healthy lives of freedom. Find out more about what #cows in the animal agriculture industry endure here: Image Credit: Tom Wollard / We Animals Media",
+      "date": "08 May 2022"
+    },
+    {
+      "id": 34,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19751-l.jpg",
+      "title": "A Prison Inmate In A Pre-release Work Program Was The First Recorded Human Case Of The Bird Flu In The Us",
+      "by": "by Compassion Over Killing",
+      "para": "With this recent news confirming avian influenza crossover to humans, we can no longer ignore the uncomfortable truth the industry has been unwilling to take accountability for: the basic business model of the poultry industry is to blame for manufacturing these viruses, said our Executive Directo..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 35,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19749-l.jpg",
+      "title": "January-march 2022 Impact | Animal Equality",
+      "by": "by Animal Equality",
+      "para": "Together, we’ve made significant strides to help animals in 2022. Just this year, we have released 3 investigations, convinced 18 companies to improve standards for animals, and have impacted over 22 million animals. We could not have done this without your support. Read more about what you've helpe..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 36,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19750-l.jpg",
+      "title": "In 2015, An Animal Outlook Investigator Documented The Shocking Horrors Forced U..",
+      "by": "by Compassion Over Killing",
+      "para": "In 2015, an Animal Outlook investigator documented the shocking horrors forced upon baby birds including sick, injured, or weak birds. Inside a Foster Farms turkey hatchery in Fresno, California these birds were set aside and either dumped into a machine to be ground up alive or gassed to death in p..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 37,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19746-l.jpg",
+      "title": "Farmed Animals How Can You Help Them Right Now?. If You Care About Animals Or Wa..",
+      "by": "by Compassion Over Killing",
+      "para": "Farmed animals: How can you help them — right now? If you care about animals or want to learn the truth about the cruel realities of animal agriculture, now is the time to get involved in the animal rights movement. Here are five easy ways to get started:",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 38,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19748-l.jpg",
+      "title": "Hummus Pasta 🍝",
+      "by": "by KindMeal.my",
+      "para": "Try this budget-friendly hummus pasta!",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 39,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19747-l.jpg",
+      "title": "Wishing Our Dearest Muslim Friends A Safe, Joyful And Heartwarming Hari Raya Aid..",
+      "by": "by KindMeal.my",
+      "para": "Wishing our dearest Muslim friends a safe, joyful and heartwarming Hari Raya Aidilfitri! ❤️ Enjoy a funtastic holiday, drive safely, and remember to keep your beloved pets safe and sound. Install our PetFinder.my app to send these cute Raya WhatsApp stickers:",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 40,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19745-l.jpg",
+      "title": "Avocados Reduce The Risk Of Heart Disease, Study Shows",
+      "by": "by KindMeal.my",
+      "para": "🥑",
+      "date": "04 May 2022"
+    },
+    {
+      "id": 41,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19754-l.jpg",
+      "title": "Its Pretty Simple When You Think About It, Going Vegan Is The Right Thing To Do...",
+      "by": "by Compassion Over Killing",
+      "para": "It’s pretty simple when you think about it, going vegan is the right thing to do. #GoVegan and keep animals off your plate.",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 42,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19753-l.jpg",
+      "title": "Animals Are Not Meals. Cows Farmed For Meat Are Subjected To Torment Their Entir..",
+      "by": "by Compassion Over Killing",
+      "para": "Animals are not meals. Cows farmed for meat are subjected to torment their entire lives. It's cruel - these sentient beings deserve happy, healthy lives of freedom. Find out more about what #cows in the animal agriculture industry endure here: Image Credit: Tom Wollard / We Animals Media",
+      "date": "08 May 2022"
+    },
+    {
+      "id": 43,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19751-l.jpg",
+      "title": "A Prison Inmate In A Pre-release Work Program Was The First Recorded Human Case Of The Bird Flu In The Us",
+      "by": "by Compassion Over Killing",
+      "para": "With this recent news confirming avian influenza crossover to humans, we can no longer ignore the uncomfortable truth the industry has been unwilling to take accountability for: the basic business model of the poultry industry is to blame for manufacturing these viruses, said our Executive Directo..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 44,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19749-l.jpg",
+      "title": "January-march 2022 Impact | Animal Equality",
+      "by": "by Animal Equality",
+      "para": "Together, we’ve made significant strides to help animals in 2022. Just this year, we have released 3 investigations, convinced 18 companies to improve standards for animals, and have impacted over 22 million animals. We could not have done this without your support. Read more about what you've helpe..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 45,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19750-l.jpg",
+      "title": "In 2015, An Animal Outlook Investigator Documented The Shocking Horrors Forced U..",
+      "by": "by Compassion Over Killing",
+      "para": "In 2015, an Animal Outlook investigator documented the shocking horrors forced upon baby birds including sick, injured, or weak birds. Inside a Foster Farms turkey hatchery in Fresno, California these birds were set aside and either dumped into a machine to be ground up alive or gassed to death in p..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 46,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19746-l.jpg",
+      "title": "Farmed Animals How Can You Help Them Right Now?. If You Care About Animals Or Wa..",
+      "by": "by Compassion Over Killing",
+      "para": "Farmed animals: How can you help them — right now? If you care about animals or want to learn the truth about the cruel realities of animal agriculture, now is the time to get involved in the animal rights movement. Here are five easy ways to get started:",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 47,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19748-l.jpg",
+      "title": "Hummus Pasta 🍝",
+      "by": "by KindMeal.my",
+      "para": "Try this budget-friendly hummus pasta!",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 48,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19747-l.jpg",
+      "title": "Wishing Our Dearest Muslim Friends A Safe, Joyful And Heartwarming Hari Raya Aid..",
+      "by": "by KindMeal.my",
+      "para": "Wishing our dearest Muslim friends a safe, joyful and heartwarming Hari Raya Aidilfitri! ❤️ Enjoy a funtastic holiday, drive safely, and remember to keep your beloved pets safe and sound. Install our PetFinder.my app to send these cute Raya WhatsApp stickers:",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 49,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19745-l.jpg",
+      "title": "Avocados Reduce The Risk Of Heart Disease, Study Shows",
+      "by": "by KindMeal.my",
+      "para": "🥑",
+      "date": "04 May 2022"
+    },
+    {
+      "id": 50,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19754-l.jpg",
+      "title": "Its Pretty Simple When You Think About It, Going Vegan Is The Right Thing To Do...",
+      "by": "by Compassion Over Killing",
+      "para": "It’s pretty simple when you think about it, going vegan is the right thing to do. #GoVegan and keep animals off your plate.",
+      "date": "03 May 2022"
+    },
+    {
+      "id": 51,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19753-l.jpg",
+      "title": "Animals Are Not Meals. Cows Farmed For Meat Are Subjected To Torment Their Entir..",
+      "by": "by Compassion Over Killing",
+      "para": "Animals are not meals. Cows farmed for meat are subjected to torment their entire lives. It's cruel - these sentient beings deserve happy, healthy lives of freedom. Find out more about what #cows in the animal agriculture industry endure here: Image Credit: Tom Wollard / We Animals Media",
+      "date": "08 May 2022"
+    },
+    {
+      "id": 52,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19751-l.jpg",
+      "title": "A Prison Inmate In A Pre-release Work Program Was The First Recorded Human Case Of The Bird Flu In The Us",
+      "by": "by Compassion Over Killing",
+      "para": "With this recent news confirming avian influenza crossover to humans, we can no longer ignore the uncomfortable truth the industry has been unwilling to take accountability for: the basic business model of the poultry industry is to blame for manufacturing these viruses, said our Executive Directo..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 53,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19749-l.jpg",
+      "title": "January-march 2022 Impact | Animal Equality",
+      "by": "by Animal Equality",
+      "para": "Together, we’ve made significant strides to help animals in 2022. Just this year, we have released 3 investigations, convinced 18 companies to improve standards for animals, and have impacted over 22 million animals. We could not have done this without your support. Read more about what you've helpe..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 54,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19750-l.jpg",
+      "title": "In 2015, An Animal Outlook Investigator Documented The Shocking Horrors Forced U..",
+      "by": "by Compassion Over Killing",
+      "para": "In 2015, an Animal Outlook investigator documented the shocking horrors forced upon baby birds including sick, injured, or weak birds. Inside a Foster Farms turkey hatchery in Fresno, California these birds were set aside and either dumped into a machine to be ground up alive or gassed to death in p..",
+      "date": "09 May 2022"
+    },
+    {
+      "id": 55,
+      "imgURL": "https://www.kindmeal.my/photos/article/19/19746-l.jpg",
+      "title": "Farmed Animals How Can You Help Them Right Now?. If You Care About Animals Or Wa..",
+      "by": "by Compassion Over Killing",
+      "para": "Farmed animals: How can you help them — right now? If you care about animals or want to learn the truth about the cruel realities of animal agriculture, now is the time to get involved in the animal rights movement. Here are five easy ways to get started:",
+      "date": "09 May 2022"
+    }
+  ],
+  "recipeData": [
+    {
+      "id": 1,
+      "logo": "https://www.kindmeal.my/photos/member/35/35085-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000011-19418-m.jpg",
+      "title": "Cranberry Mimosa",
+      "author": "KindMealChef",
+      "time": "5 Mins",
+      "Like": 0,
+      "catagory": "Breakfast",
+      "Comment": 1
+    },
+    {
+      "id": 2,
+      "logo": "https://www.kindmeal.my/photos/member/14/14169-s.jpg",
+      "title": "Spiced Poached Pears",
+      "author": "KindMealChef",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039471-58904-m.jpg",
+      "time": "30 Mins",
+      "Like": 0,
+      "catagory": "Breads",
+      "Comment": 1
+    },
+    {
+      "id": 3,
+      "logo": "https://www.kindmeal.my/photos/member/28/28122-s.jpg",
+      "img": " https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg",
+      "title": "Vegetarian VFC",
+      "author": "MayNg",
+      "time": "1 Hr",
+      "Like": 3,
+      "catagory": "Desserts",
+      "Comment": 2
+    },
+    {
+      "id": 4,
+      "logo": "https://www.kindmeal.my/photos/member/38/38661-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/104/104682-15566-m.jpg",
+      "title": "Sun-Dried Tomato Dip",
+      "author": "KindMealChef",
+      "time": "10 Mins",
+      "Like": 0,
+      "catagory": "Desserts",
+      "Comment": 0
+    },
+    {
+      "id": 5,
+      "logo": "https://www.kindmeal.my/images/default_female-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000008-19415-m.jpg",
+      "title": "Curry Tomato Sauce",
+      "author": "BluePenguin",
+      "time": "30 Mins",
+      "Like": 0,
+      "catagory": "Condiments",
+      "Comment": 1
+    },
+    {
+      "id": 6,
+      "logo": "https://www.kindmeal.my/images/default_male-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000011-19418-m.jpg",
+      "title": "Nasi Lemark",
+      "author": "MayNg",
+      "time": "45 Mins",
+      "Like": 12,
+      "catagory": "Appetizers",
+      "Comment": 5
+    },
+    {
+      "id": 7,
+      "logo": "https://www.kindmeal.my/photos/member/29/29512-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/118/118560-18474-m.jpg",
+      "title": "Nasi Lemark",
+      "author": "MayNg",
+      "time": "45 Mins",
+      "Like": 3,
+      "catagory": "Snacks",
+      "Comment": 4
+    },
+    {
+      "id": 8,
+      "logo": "https://www.kindmeal.my/photos/member/11/11401-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/115/115797-17920-m.jpg",
+      "title": "Banana Cake",
+      "author": "MyWeekedPlan",
+      "time": "55 Mins",
+      "Like": 0,
+      "catagory": "Breakfast",
+      "Comment": 0
+    },
+    {
+      "id": 9,
+      "logo": "https://www.kindmeal.my/photos/member/40/40177-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039459-58887-m.jpg",
+      "title": "Stir-fried Broccoli Rice",
+      "author": "SynThiaSumireDT",
+      "time": "1 hr",
+      "Like": 0,
+      "catagory": "Main Dishes",
+      "Comment": 0
+    },
+    {
+      "id": 10,
+      "logo": "https://www.kindmeal.my/photos/member/40/40202-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039466-58897-m.jpg",
+      "title": "BRINJAL CURRY",
+      "author": "ismah",
+      "time": "11 Mins",
+      "Like": 0,
+      "catagory": "Main Dishes",
+      "Comment": 0
+    },
+    {
+      "id": 11,
+      "logo": "https://www.kindmeal.my/images/default_male-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000009-19416-m.jpg",
+      "title": "Oreo Egg Tart",
+      "author": "MyWeekedPlan",
+      "time": "45 Mins",
+      "Like": 0,
+      "catagory": "Beverages",
+      "Comment": 0
+    },
+    {
+      "id": 12,
+      "logo": "https://www.kindmeal.my/photos/member/35/35085-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039473-58906-m.jpg",
+      "title": "Oreo Egg Tart",
+      "author": "MyWeekedPlan",
+      "time": "45 Mins",
+      "Like": 0,
+      "catagory": "Breakfast",
+      "Comment": 0
+    },
+    {
+      "id": 13,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039478-58911-m.jpg",
+      "title": "Donuts",
+      "author": "MyWeekedPlan",
+      "time": "1 Hr 40 Mins",
+      "Like": 0,
+      "catagory": "Side Dishes",
+      "Comment": 0
+    },
+    {
+      "id": 14,
+      "logo": "https://www.kindmeal.my/images/default_male-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000010-19417-m.jpg",
+      "title": "Avocado Chocolate Quino",
+      "author": "XianKy",
+      "time": "30 Mins",
+      "Like": 1,
+      "catagory": "Desserts",
+      "Comment": 1
+    },
+    {
+      "id": 15,
+      "logo": "https://www.kindmeal.my/photos/member/35/35085-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000012-19420-m.jpg",
+      "title": "Ceaser Dressing",
+      "author": "Janelle",
+      "time": "20 Mins",
+      "Like": 0,
+      "catagory": "Salads",
+      "Comment": 0
+    },
+    {
+      "id": 16,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000013-19421-m.jpg",
+      "title": "Pitaya Adzuki Nice Cream Smoothie Bowl",
+      "author": "BluePenguin",
+      "time": "30 Mins",
+      "Like": 3,
+      "catagory": "Appetizers",
+      "Comment": 1
+    },
+    {
+      "id": 17,
+      "logo": "https://www.kindmeal.my/photos/member/35/35085-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+      "title": "Crunchy Chocolate Chip Cookies",
+      "author": "MyWeekedPlan",
+      "time": "23 Mins",
+      "Like": 0,
+      "catagory": "Desserts",
+      "Comment": 0
+    },
+    {
+      "id": 18,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+      "title": "Crunchy Chocolate Chip Cookies",
+      "author": "MyWeekedPlan",
+      "time": "23 Mins",
+      "Like": 0,
+      "catagory": "Desserts",
+      "Comment": 0
+    },
+    {
+      "id": 19,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+      "title": "Crunchy Chocolate Chip Cookies",
+      "author": "MyWeekedPlan",
+      "time": "23 Mins",
+      "Like": 0,
+      "catagory": "Desserts",
+      "Comment": 0
+    },
+    {
+      "id": 20,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039467-58898-m.jpg",
+      "title": "Crunchy Chocolate Chip Cookies",
+      "author": "MyWeekedPlan",
+      "time": "23 Mins",
+      "Like": 0,
+      "catagory": "Breakfast",
+      "Comment": 0
+    },
+    {
+      "id": 21,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039474-58907-m.jpg",
+      "title": "Khaman Dhokla Recipe",
+      "author": "buzztowns",
+      "time": "1 Hr",
+      "Like": 0,
+      "catagory": "Main Dishes",
+      "Comment": 0
+    },
+    {
+      "id": 22,
+      "logo": "https://www.kindmeal.my/photos/member/35/35085-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+      "title": "Hokkaido cheese Tart",
+      "author": "MyWeekedPlan",
+      "time": "4 Hr 30 Mins",
+      "Like": 0,
+      "catagory": "Desserts",
+      "Comment": 0
+    },
+    {
+      "id": 23,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+      "title": "Hokkaido cheese Tart",
+      "author": "MyWeekedPlan",
+      "time": "4 Hr 30 Mins",
+      "Like": 0,
+      "catagory": "Beverages",
+      "Comment": 0
+    },
+    {
+      "id": 24,
+      "logo": "https://www.kindmeal.my/photos/member/35/35085-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+      "title": "Chickpea Cakes",
+      "author": "BluePenguin",
+      "time": "2 Hrs",
+      "Like": 0,
+      "catagory": "Appetizers",
+      "Comment": 0
+    },
+    {
+      "id": 25,
+      "logo": "https://www.kindmeal.my/photos/member/39/39951-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1000/1000007-19413-m.jpg",
+      "title": "Chickpea Cakes",
+      "author": "BluePenguin",
+      "time": "2 Hrs",
+      "Like": 0,
+      "catagory": "Breads",
+      "Comment": 0
+    },
+    {
+      "id": 26,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/1039/1039462-58891-m.jpg",
+      "title": "Making French Toast-easy",
+      "author": "FoodLover398",
+      "time": "3 Mins",
+      "Like": 0,
+      "catagory": "Appetizers",
+      "Comment": 0
+    },
+    {
+      "id": 27,
+      "logo": "https://www.kindmeal.my/photos/member/39/39951-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/105/105013-15658-m.jpg",
+      "title": "Fried Mushroom Appetizers",
+      "author": "KindMealChef",
+      "time": "15 Mins",
+      "catagory": "Breakfast",
+      "Like": 0,
+      "Comment": 0
+    },
+    {
+      "id": 28,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/109/109372-16618-m.jpg",
+      "title": "Berry Salad With Balsami Vinegar And Honey",
+      "author": "KindMealChef",
+      "time": "15 Mins",
+      "Like": 0,
+      "catagory": "Beverages",
+      "Comment": 0
+    },
+    {
+      "id": 29,
+      "logo": "https://www.kindmeal.my/photos/member/39/39951-s.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/36/36980-3607-m.jpg",
+      "title": "Creamy Butternut Squash Soup",
+      "author": "KindMealChef",
+      "time": "55 Mins",
+      "Like": 0,
+      "catagory": "Breakfast",
+      "Comment": 0
+    },
+    {
+      "id": 30,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/119/119074-18574-m.jpg",
+      "title": "Spiced Lemonade",
+      "author": "KindMealChef",
+      "time": "15 Mins",
+      "Like": 0,
+      "catagory": "Appetizers",
+      "Comment": 0
+    },
+    {
+      "id": 31,
+      "logo": "https://www.kindmeal.my/photos/member/0/6-m.jpg",
+      "img": "https://www.kindmeal.my/photos/recipe/105/105871-15870-m.jpg",
+      "title": "Nigella Lawson Roquamole",
+      "author": "KindMealChef",
+      "time": "10 Mins",
+      "Like": 0,
+      "catagory": "Beverages",
+      "Comment": 0
+    }
+  ],
+  "superHeroes": [
+    {
+      "img": "https://www.kindmeal.my/photos/member/16/16737-m.jpg",
+      "name": "KatrinaTang   "
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/member/33/33921-m.jpg",
+      "name": "AnneYap1"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/member/13/13195-m.jpg",
+      "name": "SamNgJiunHian"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/member/24/24312-m.jpg",
+      "name": "PuahPidiaen"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/member/39/39963-m.jpg",
+      "name": "EugeneLaiEuJin"
+    }
+  ],
+  "discoverRest": [
+    {
+      "img": "https://www.kindmeal.my/photos/item/0/538-7371-s.jpg",
+      "name": "Creamy Mushroom Pumpkin"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/item/0/461-5462-s.jpg",
+      "name": "Dark Chocolate Brownies"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/item/0/130-1187-s.jpg",
+      "name": "Jing Si Books & Cafe 静思书轩"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/item/0/530-6878-s.jpg",
+      "name": "Black Bean Fish"
+    },
+    {
+      "img": "https://www.kindmeal.my/photos/item/0/545-7429-s.jpg",
+      "name": "Kyoto Pork Ribs Ramen"
+    }
+  ],
+  "mealDeals": [
+    {
+      "id": 25,
+      "img": "https://www.kindmeal.my/photos/deal/5/506-2350-l.jpg",
+      "title": "Cozy Oriental Dining",
+      "off": "-20%",
+      "name": "Ring Zhi Vegetarian Restaurant",
+      "address": "—  Kepong, Kuala Lumpur",
+      "desc": "This place brings back memories to those days where we would have such delicious authentic meals for festive eats. Select from AN..",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol.png",
+      "expire": "21 Hours",
+      "Like": 10,
+      "off2": "20%",
+      "Location": "Kualalumpur",
+      "catagory": "Pasta"
+    },
+    {
+      "id": 26,
+      "img": "https://www.kindmeal.my/photos/deal/7/701-4904-l.jpg",
+      "title": "Tasy, Joyful Moments",
+      "off": "-10%",
+      "name": "Moment of Joy",
+      "address": " —  Cheras & 1 Branch",
+      "desc": "We are committed to sustainability and plant-based diet. When food is melting into our mouths with an Unami flavor, life becomes ..",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "expire": "5 Days",
+      "Like": 1,
+      "off2": "10%",
+      "Location": "Klang vally",
+      "catagory": "Burger"
+    },
+    {
+      "id": 1,
+      "img": "https://www.kindmeal.my/photos/deal/6/686-4475-l.jpg",
+      "off": "-15%",
+      "title": "Blend of Asian Flavors",
+      "name": "Figure Out Cafe ",
+      "address": "—  Klang, Selangor",
+      "desc": "Let us Figure Out the most delicious blend of Asian flavors, pampering you within a relaxing atmosphere!Enjoy discount off a lar..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "15%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": " 6Days",
+      "Like": 8,
+      "Location": "Klang vally",
+      "catagory": "Burger"
+    },
+    {
+      "id": 2,
+      "img": "https://www.kindmeal.my/photos/deal/5/565-4023-l.jpg",
+      "off": "-20%",
+      "title": "Buon Appetito at Table9",
+      "name": "Table9 Cafe & Kitchen",
+      "address": "- Kula Lumpur,Wilayah Persekutuan",
+      "desc": "Indulge in a creative fare of Italian cuisine and Korean-inspired drinks in the cozy atmosphere of Table9Select any meat-free i..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 5,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "4 Days",
+      "Location": "Klang vally",
+      "catagory": "Pasta"
+    },
+    {
+      "id": 3,
+      "img": "https://www.kindmeal.my/photos/deal/5/574-3020-l.jpg",
+      "off": "-20%",
+      "title": "Mad About Food",
+      "name": "Medal Mad Cafe",
+      "address": " —Kepong,Kuala Lumpur",
+      "desc": "Enjoy a selection of Western cuisine, signature mocktails and desserts, especially their egg bubble waffle! Enjoy meat-free items..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 10,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "5 Days",
+      "Location": "Klang vally",
+      "catagory": "Breakfast"
+    },
+    {
+      "id": 4,
+      "img": "https://www.kindmeal.my/photos/deal/6/617-3503-l.jpg",
+      "off": "-15%",
+      "title": "Earth-Friendly Meals",
+      "name": "Love Earth Cafe",
+      "address": "—Kuala Lumpur,Wilayah Persekutuan",
+      "desc": "Indulge in a wide variety of delicious meat-free cuisines, and contribute to a better Earth and environment! Select from any of o..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "15%",
+      "Like": 15,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": " 12 Days",
+      "Location": "Klang vally",
+      "catagory": "Breakfast"
+    },
+    {
+      "id": 5,
+      "img": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+      "off": "-20%",
+      "title": "Scrumptious Croutons",
+      "name": "Croutons Cafe",
+      "address": "—Seri Kembangan,Selangor",
+      "desc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • ..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 20,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "12 Days",
+      "Location": "Klang vally",
+      "catagory": "Breakfast"
+    },
+    {
+      "id": 6,
+      "img": "https://www.kindmeal.my/photos/deal/4/469-1822-l.jpg",
+      "off": "-20%",
+      "title": "Healthy Personal Salad",
+      "name": "Salad Atelier",
+      "address": "—Jalan Tun Razak & 4 Branches",
+      "desc": "Enjoy a crispy, crunchy adult-sized salad prepared with fresh greens, fruits and healthy ingredients! Choose from a base, 6 meat-..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal (Save RM3.80)",
+      "off2": "RM 15.20",
+      "Like": 10,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "11 Days",
+      "Location": "Klang vally",
+      "catagory": "Breakfast"
+    },
+    {
+      "id": 7,
+      "img": "https://www.kindmeal.my/photos/deal/6/681-4353-l.jpg",
+      "off": "-10%",
+      "title": "Contemporary Vegetarian Experience",
+      "name": "Berjaya Cafe",
+      "address": "— Kuala Lumpur, Wilayah Persekutuan",
+      "desc": "Berjaya Cafe delights you with opulence, style and taste from the best chefs in town. Savor only the best in gastronomic experien..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "10%",
+      "Like": 7,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "4 Days",
+      "Location": "Klang vally",
+      "catagory": "Breakfast"
+    },
+    {
+      "id": 8,
+      "img": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+      "off": "-20%",
+      "title": "Flavours Around the World",
+      "name": "The Black Cat Cafe ",
+      "address": "— Kuala Lumpur, Wilayah persekutuan",
+      "desc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 30,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "11 Days",
+      "Location": "Klang vally",
+      "catagory": "Burger"
+    },
+    {
+      "id": 9,
+      "img": "https://www.kindmeal.my/photos/deal/6/605-3316-l.jpg",
+      "off": "-20%",
+      "title": "Hyderabadi Indian Feast",
+      "name": "Hyderabad Recipes",
+      "address": "— Kuala Lumpur, Wilayah Persekutuan",
+      "desc": "Indulge yourself in the best Hyderabadi cuisine, including the 'World's Favourite Biryani'! Select from any meat-free items from ..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 7,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "12 Days",
+      "Location": "Klang vally",
+      "catagory": "Bakery"
+    },
+    {
+      "id": 10,
+      "img": "https://www.kindmeal.my/photos/deal/4/467-2796-l.jpg",
+      "off": "-20%",
+      "title": "Churros,Coffee & Meals",
+      "name": "PCLO Cafe",
+      "address": " —  Cheras & 1 Branch",
+      "desc": "Think of Churros, think of PCLO Cafe! Each batch of eggless Churros is made with passion and from scratch in our kitchen. Which ..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 6,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "4 Days",
+      "Location": "Klang vally",
+      "catagory": "Cute"
+    },
+    {
+      "id": 11,
+      "img": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+      "off": "-20%",
+      "title": "Wellness Meal + 10% Off Organic Products",
+      "name": "Juve Wellness Puchong ",
+      "address": "— Puchong,Selangor",
+      "desc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 5,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "4 Days",
+      "Location": "Klang vally",
+      "catagory": "Bakery"
+    },
+    {
+      "id": 12,
+      "img": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+      "off": "-20%",
+      "title": "Authentic Asian Experience",
+      "name": "Cameleon Vegetarian Resturant",
+      "address": "— Kuala Lumpur, Wilayah Persekutuan",
+      "desc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 12,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "12 Days",
+      "Location": "Klang vally",
+      "catagory": "Cute"
+    },
+    {
+      "id": 13,
+      "img": "https://www.kindmeal.my/photos/deal/6/677-4286-l.jpg",
+      "off": "-20%",
+      "title": "Japanese Vegan Feast",
+      "name": "SUPE Vegan",
+      "address": " Kuala Lumpur, Wilayah Persekutuan",
+      "desc": "Indulge yourself with creative, delicious and healthy fusion Japanese vegan cuisine at SUPE! Featuring uniquely crafted vegan mea..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 11,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "12 Days",
+      "Location": "Klang vally",
+      "catagory": "Tea & Desserts"
+    },
+    {
+      "id": 14,
+      "img": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+      "off": "-20%",
+      "title": "Dining Bowl Asian Delicates",
+      "name": "Dining Bowl",
+      "address": "— Kuala Lumpur, Wilayah Persekutuan",
+      "desc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 14,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "9 Days",
+      "Location": "Klang vally",
+      "catagory": "Breakfast"
+    },
+    {
+      "id": 15,
+      "img": "https://www.kindmeal.my/photos/deal/5/590-3137-l.jpg",
+      "off": "-20%",
+      "title": "Rawsome Lifestyle",
+      "name": "Rawsome ",
+      "address": " Sungai Buloh,Selangor",
+      "desc": "Enjoy healthy, guilt-free, raw food meals artfully crafted for a nutritious and delicious experience. Indulge in a satisfying mea..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 16,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "13 Days",
+      "Location": "Klang vally",
+      "catagory": "Tea & Desserts"
+    },
+    {
+      "id": 16,
+      "img": "https://www.kindmeal.my/photos/deal/3/301-722-l.jpg",
+      "off": "-20%",
+      "title": "MBG Fruit Juice Deal",
+      "name": "MBG Fruit Shop",
+      "address": " — Petaling Jaya & 5 Branches",
+      "desc": "Enjoy discount from any of our signature fruit juices below: No 1 (Avocado + Date Sweetener + Yogurt + Milk) – RM12.70 No 8 (Gi..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "Like": 17,
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "1 Days",
+      "Location": "Klang vally",
+      "catagory": "Indian"
+    },
+    {
+      "id": 17,
+      "img": "https://www.kindmeal.my/photos/deal/6/682-4370-l.jpg",
+      "off": "-15%",
+      "title": "Smooth Teas & Cold Brews",
+      "name": "Fullleaf Tea Store",
+      "address": "— Bandar Sunway, Selangor",
+      "desc": "Chill out with our ready-to-drink Cold Brew Teas! Invigorate yourself with our healthy, refreshing selection of Pure and Smooth T..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "1 Days",
+      "Location": "Klang vally",
+      "catagory": "Indian"
+    },
+    {
+      "id": 18,
+      "img": "https://www.kindmeal.my/photos/deal/6/664-4296-l.jpg",
+      "off": "-10%",
+      "title": "The Soul of Local Delights",
+      "name": "Soul Green ",
+      "address": "— Perniagaan Kota Shahbandar , Melaka",
+      "desc": "Revitalize your soul with our healthy, delicious local cuisine, straight from the food paradise of Melaka! Enjoy discounts off al..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "10%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "expire": "6 Days",
+      "Location": "Klang vally",
+      "catagory": "Indian"
+    },
+    {
+      "id": 19,
+      "img": "https://www.kindmeal.my/photos/deal/6/634-3683-l.jpg",
+      "off": "-20%",
+      "title": "Vegan Thai Delights",
+      "name": "Veggielicious Thai Cuisine",
+      "address": "— Petaling Jaya,Selangor",
+      "desc": "Indulge in a wide array of authentic Thai vegan dishes within a cozy environment! Deliciously crafted to bring you the finest gas..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "3 Days",
+      "Location": "Klang vally",
+      "catagory": "Chinese"
+    },
+    {
+      "id": 20,
+      "img": "https://www.kindmeal.my/photos/deal/6/685-4392-l.jpg",
+      "off": "-15%",
+      "title": "Authentic Italian Indulgence",
+      "name": "The Italian Job",
+      "address": "— Petaling Jaya,Selangor",
+      "desc": "Enjoy authentic Italian cuisine within a cozy environment! Pizza, breads and sometimes cakes or cookies are baked within the in-h..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "15%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "13 Days",
+      "Location": "Klang vally",
+      "catagory": "Chinese"
+    },
+    {
+      "id": 21,
+      "img": "https://www.kindmeal.my/photos/deal/6/628-4921-l.jpg",
+      "off": "-15%",
+      "title": "Janpanese Fusion Delights",
+      "name": "Sushi Kitchen Kota Damansara ",
+      "address": " —  Cheras & 1 Branch",
+      "desc": "Enjoy creative, delicious and healthy fusion Japanese cuisine at Sushi Kitchen! Meticulously prepared with fresh, quality ingredi..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "15%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "13 Days",
+      "Location": "Klang vally",
+      "catagory": "Soup"
+    },
+    {
+      "id": 22,
+      "img": "https://www.kindmeal.my/photos/deal/5/553-2769-l.jpg",
+      "off": "-10%",
+      "title": "Sandalo Weekday Gourmet",
+      "name": "Sandalo Healthy Vegetarian",
+      "address": " —  Petaling Jaya, Selangor",
+      "desc": "Nourish your body and delight your taste buds with our tasty selection of vegetarian dishes. Choose from any of our menu items, i..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "10%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "12 Days",
+      "Location": "Klang vally",
+      "catagory": "Salads"
+    },
+    {
+      "id": 23,
+      "img": "https://www.kindmeal.my/photos/deal/5/591-3151-l.jpg",
+      "off": "-20%",
+      "title": "Vegipai's Fusion Indulgence",
+      "name": "Vegipai Cafe",
+      "address": " —  Taman Desa, Off Jln. Kelang La.., Kuala Lumpur",
+      "desc": "Indulge in a healthy and tasty variety of Oriental and Western delicacies, prepared with quality ingredients! Enjoy any items fro..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "20%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "8 Days",
+      "Location": "Klang vally",
+      "catagory": "Soup"
+    },
+    {
+      "id": 24,
+      "img": "https://www.kindmeal.my/photos/deal/6/698-4639-l.jpg",
+      "off": "-10%",
+      "title": "Nutritious Meets Delicious",
+      "name": "Wise Crafters",
+      "address": "—  Petaling Jaya, Selangorr",
+      "desc": "Wise Crafters offers freshly-prepared meals, developed by a team of chefs and nutritionists. Let us invigorate your body and mind..",
+      "eggContain": "https://www.kindmeal.my/images/icon_egg.png",
+      "dairyContain": "https://www.kindmeal.my/images/icon_milk.png",
+      "alcoContain": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+      "discounttitle": "KindMeal Discount",
+      "off2": "10%",
+      "strImg": "https://www.kindmeal.my/images/icon_star.png",
+      "emptyStr": "https://www.kindmeal.my/images/icon_star_grey.png",
+      "halfstr": "https://www.kindmeal.my/images/icon_star_half.png",
+      "expire": "13 Days",
+      "Location": "Klang vally",
+      "catagory": "Salads"
+    }
+  ],
+  "formData": [
+    {
+      "firstName": "Muskan",
+      "lastName": "Shaw",
+      "email": "princesahil0065@gmail.com",
+      "country": "INDIA",
+      "password": "12345678",
+      "username": "muskan2507",
+      "dob": "1999-07-25",
+      "state": "KOLKATA",
+      "gender": "female",
+      "photo": "https://www.kindmeal.my/photos/member/41/41066-s.jpg",
+      "agree": true,
+      "id": 2
+    }
+  ],
+  "hotpicks1": [
+    {
+      "img": "https://www.kindmeal.my/photos/deal/5/579-4524-m.jpg",
+
+      "txt": "Lush Comfort Food"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/7/703-4854-m.jpg",
+
+      "txt": "Vietnamese Homecooked Meals"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/5/565-4023-m.jpg",
+
+      "txt": "Plant-Based Culinary Experience"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/696-4578-m.jpg",
+
+      "txt": "Authentic Vietnamese Experience"
+    }
+  ],
+  "hotpicks2": [
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16373-25137-m.jpg",
+
+      "logo": "https://www.kindmeal.my/images/default_female-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:",
+
+      "txt2": "Totally love the Cheesy Burger which caught me by surprise with the texture, taste, and appearance! Who will ever imagine and ex..",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16358-25101-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/33/33871-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:",
+
+      "txt2": "The 'realest' banana cake I have ever tried! 😍",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16360-25103-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/33/33871-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room: ",
+
+      "txt2": "Our newly dressed  Ceviche :)",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16352-25085-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/30/30031-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room: ",
+
+      "txt2": "Wonderful ambience, friendly attentive service and absolutely delicious food! Will definitely be back :)",
+
+      "txt": "Read Review »"
+    }
+  ],
+  "hotpicks3": [
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/684-4446-m.jpg",
+
+      "txt": "Lush Comfort Food"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/618-3514-m.jpg",
+
+      "txt": "Vietnamese Homecooked Meals"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/696-4578-m.jpg",
+
+      "txt": "Plant-Based Culinary Experience"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/670-4180-m.jpg",
+
+      "txt": "Authentic Vietnamese Experience"
+    }
+  ],
+  "hotpicks4": [
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16344-25057-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/12/12420-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room: ",
+
+      "txt2": "Totally love the Cheesy Burger which caught me by surprise with the texture, taste, and appearance! Who will ever imagine and ex..",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/15/15210-22289-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/28/28997-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "The 'realest' banana cake I have ever tried! 😍",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16185-24666-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/33/33341-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "今早的点心早餐🌹🌹",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/15/15193-22252-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/30/30213-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "Wonderful ambience, friendly attentive service and absolutely delicious food! Will definitely be back :)",
+
+      "txt": "Read Review »"
+    }
+  ],
+  "hotpicks5": [
+    {
+      "img": "https://www.kindmeal.my/photos/deal/3/369-3697-m.jpg",
+
+      "txt": "Lush Comfort Food"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/698-4639-m.jpg",
+
+      "txt": "Vietnamese Homecooked Meals"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/621-3576-m.jpg",
+
+      "txt": "Plant-Based Culinary Experience"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/5/590-3137-m.jpg",
+
+      "txt": "Authentic Vietnamese Experience"
+    }
+  ],
+  "hotpicks6": [
+    {
+      "img": "https://www.kindmeal.my/photos/moment/18/18018-29221-m.jpg",
+
+      "logo": "https://www.kindmeal.my/images/default_female-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:   ",
+
+      "txt2": "The 'realest' banana cake I have ever tried! 😍",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16099-24499-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/33/33595-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:  ",
+
+      "txt2": "Totally love the Cheesy Burger which caught me by surprise with the texture, taste, and appearance! Who will ever imagine and ex..",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16313-24975-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/32/32600-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "Wonderful ambience, friendly attentive service and absolutely delicious food! Will definitely be back :)",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16094-24482-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/20/20155-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "今早的点心早餐🌹🌹",
+
+      "txt": "Read Review »"
+    }
+  ],
+  "hotpicks7": [
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/698-4639-m.jpg",
+
+      "txt": "Lush Comfort Food"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/4/469-1822-m.jpg",
+
+      "txt": "Vietnamese Homecooked Meals"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/5/551-2642-m.jpg",
+
+      "txt": "Plant-Based Culinary Experience"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/2/271-519-m.jpg",
+
+      "txt": "Authentic Vietnamese Experience"
+    }
+  ],
+  "hotpicks8": [
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16314-24978-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/10/10072-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "The 'realest' banana cake I have ever tried! 😍",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/4/469-1822-s.jpg",
+
+      "logo": "https://www.kindmeal.my/images/default_female-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "Totally love the Cheesy Burger which caught me by surprise with the texture, taste, and appearance! Who will ever imagine and ex..",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16224-24752-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/30/30530-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:     ",
+
+      "txt2": "Wonderful ambience, friendly attentive service and absolutely delicious food! Will definitely be back :)",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/14/14891-21520-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/20/20043-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "今早的点心早餐🌹🌹",
+
+      "txt": "Read Review »"
+    }
+  ],
+  "hotpicks9": [
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/685-4392-m.jpg",
+
+      "txt": "Lush Comfort Food"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/4/467-2796-m.jpg",
+
+      "txt": "Vietnamese Homecooked Meals"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/5/529-2478-m.jpg",
+
+      "txt": "Plant-Based Culinary Experience"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/deal/6/621-3576-m.jpg",
+
+      "txt": "Authentic Vietnamese Experience"
+    }
+  ],
+  "hotpicks10": [
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16354-25094-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/10/10038-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:    ",
+
+      "txt2": "The 'realest' banana cake I have ever tried! 😍",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/15/15345-22609-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/10/10038-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:   ",
+
+      "txt2": "Totally love the Cheesy Burger which caught me by surprise with the texture, taste, and appearance! Who will ever imagine and ex..",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/15/15179-22220-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/11/11524-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room:     ",
+
+      "txt2": "Wonderful ambience, friendly attentive service and absolutely delicious food! Will definitely be back :)",
+
+      "txt": "Read Review »"
+    },
+
+    {
+      "img": "https://www.kindmeal.my/photos/moment/16/16354-25094-m.jpg",
+
+      "logo": "https://www.kindmeal.my/photos/member/11/11411-m.jpg",
+
+      "txt1": "ChanElaine at Martino's Dessert Room    ",
+
+      "txt2": "咖啡館不是只有咖啡的，這裡的多種類選擇一定不會讓你失望，西式、中式、檳島美食等等，絕不會讓你感到乏味。老闆夫婦精益求精，最近菜單又多了幾種新選擇，我期待天然食材的Portobello mushrooms Burger 終於誕生了，很好吃！還有第一張照片那一道特..",
+
+      "txt": "Read Review »"
+    }
+  ],
+  "kindmoments": [
+    {
+      "id": 1,
+      "img": "https://www.kindmeal.my/photos/moment/23/23868-45252-m.jpg",
+      "authorname": "YinYinBoey",
+      "authorimg": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "date": "May 5th 2020",
+      "Like": 0,
+      "Comment": 0,
+      "description": "For today’s salad, using nai pak as the main green veg.",
+      "facebookname": "Raw Chef Yin",
+      "country": "malaysia"
+    },
+    {
+      "id": 2,
+      "img": "https://www.kindmeal.my/photos/moment/23/23825-45118-m.jpg",
+      "authorname": "LimKengTiong",
+      "authorimg": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "date": "May 5th 2022",
+      "Like": 0,
+      "camera": 2,
+      "Comment": 0,
+      "description": "虽然酒店自助餐只有几样素食选择，但是酒店厨房很乐意炒一盘马来素炒面。🥰"
+    },
+    {
+      "id": 3,
+      "img": "https://www.kindmeal.my/photos/moment/23/23852-45193-m.jpg",
+      "authorname": "LimKengTiong",
+      "authorimg": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "date": "May 5th 2022",
+      "Like": 0,
+      "camera": 4,
+      "Comment": 0,
+      "description": "清汤米粉 Mihun Soup ,和平粥 Harmony Porridge, 炒虾面Fried Prawn Noodle ,Harmony Cafe at Muar,麻坡的和平馆",
+      "facebookname": "和平馆 Harmony Cafe",
+      "Address": "13-1, Jalan Sultan Ibrahim, 84000 Muar, Johor., 84000 Muar"
+    },
+    {
+      "id": 4,
+      "img": "https://www.kindmeal.my/photos/moment/23/23883-45294-m.jpg",
+      "authorname": "VyVian",
+      "authorimg": "https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+      "date": "May 4th 2022",
+      "Like": 0,
+      "camera": 4,
+      "Comment": 0,
+      "description": "这家的菠萝包不错😌",
+      "Address": "Oriental Kopi Pavillion Bukit Jalil"
+    },
+    {
+      "id": 5,
+      "img": "https://www.kindmeal.my/photos/moment/23/23860-45227-m.jpg",
+      "authorname": "CyChee",
+      "authorimg": "https://www.kindmeal.my/photos/member/12/12914-s.jpg",
+      "date": "May 4th 2022",
+      "Like": 0,
+      "camera": 5,
+      "Comment": 0,
+      "description": "Birthday dinner with family and friends",
+      "facebookname": "Cafe De Sky Garden",
+      "Address": "no.6,8,10,12,14&16,Jln PJS 1/31,PJS 1,Tmn Petaling Utama,, 46150 Petal.."
+    },
+    {
+      "id": 6,
+      "img": "https://www.kindmeal.my/photos/moment/23/23824-45116-m.jpg",
+      "authorname": "KenixLim",
+      "authorimg": "https://www.kindmeal.my/photos/member/19/19509-s.jpg",
+      "date": "May 4th 2022",
+      "Like": 0,
+      "camera": 2,
+      "Comment": 0,
+      "description": "有自己弄的curry鹰嘴豆，天然酸面包Sourdough Bread ，配上牛油果，再加一碗金瓜山药红枣南瓜子小米豌豆米糊🥰"
+    },
+    {
+      "id": 7,
+      "img": "https://www.kindmeal.my/photos/moment/23/23880-45282-m.jpg",
+      "authorname": "VyVian",
+      "authorimg": "https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+      "date": "May 3rd 2022",
+      "Like": 1,
+      "camera": 3,
+      "Comment": 1,
+      "description": "Been here for another day",
+      "facebookname": "Jujube Vegetarian House Yulek",
+      "Address": "No,20 lorong lobak Taman cheras, 56100 Kuala Lumpur"
+    },
+    {
+      "id": 8,
+      "img": "https://www.kindmeal.my/photos/moment/23/23879-45278-m.jpg",
+      "authorname": "FatJedi",
+      "authorimg": "https://www.kindmeal.my/photos/member/0/1-s.jpg",
+      "date": "May 2nd 2022",
+      "Like": 1,
+      "camera": 4,
+      "Comment": 0,
+      "description": "Nice filling meal of kung poh mushroom, salted fish kailan, kwai fah tofu and sharksfin soup. Haven't been here for some time, looks like the business is quite good! ",
+      "facebookname": "好地方素食 Niche Vegetarian Restaurant"
+    },
+    {
+      "id": 9,
+      "img": "https://www.kindmeal.my/photos/moment/23/23850-45186-m.jpg",
+      "authorname": "Bvelyn",
+      "authorimg": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "date": "May 2nd 2022",
+      "Like": 1,
+      "camera": 5,
+      "Comment": 0,
+      "description": "嘻嘻😁又是月華純素來上菜啦,最開心莫過於此時,可以好好的，慢慢的☺️吃著自己喜歡又合胃的純素食,今晚一樣有煲湯,是紅粉知己補血甜菜根湯（以隔水燜煮，無需添加任何調味料就好好喝 "
+    },
+    {
+      "id": 10,
+      "img": "https://www.kindmeal.my/photos/moment/23/23862-45234-m.jpg",
+      "authorname": "ChewLengLeng",
+      "authorimg": "https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+      "date": "May 2nd 2022",
+      "Like": 1,
+      "camera": 4,
+      "Comment": 0,
+      "description": "面食类RM4.00起，饭类RM5.00起,Healthy Vegetarian,健康素食  ,Add : No.252, Jalan Kapor, Lorong 3C1, 93250 Kuching, Sarawak.,Tel : 0168663495(刘先生),Business Hour : 6.30am to 2.00pm,Rest day : uncertain ,Remark : 住家式，在后门营业,GPS :1.534698,110.326254"
+    },
+    {
+      "id": 11,
+      "img": "https://www.kindmeal.my/photos/moment/23/23862-45234-m.jpg",
+      "authorname": "ChewLengLeng",
+      "authorimg": "https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+      "date": "May 2nd 2022",
+      "Like": 1,
+      "camera": 4,
+      "Comment": 0,
+      "description": "面食类RM4.00起，饭类RM5.00起,Healthy Vegetarian,健康素食  ,Add : No.252, Jalan Kapor, Lorong 3C1, 93250 Kuching, Sarawak.,Tel : 0168663495(刘先生),Business Hour : 6.30am to 2.00pm,Rest day : uncertain ,Remark : 住家式，在后门营业,GPS :1.534698,110.326254"
+    },
+    {
+      "id": 12,
+      "img": "https://www.kindmeal.my/photos/moment/23/23869-45253-m.jpg",
+      "authorname": "YinYinBoey",
+      "authorimg": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "date": "May 1st 2020",
+      "Like": 0,
+      "Comment": 0,
+      "description": "Always happy to be able to eat cikus!,So hard to find them now at fruit stalls. Not sure why most fruit stalls prefer to sell imported fruit rather than these beautiful local ones?",
+      "facebookname": "Raw Chef Yin",
+      "country": "malaysia"
+    },
+    {
+      "id": 13,
+      "img": "https://www.kindmeal.my/photos/moment/23/23849-45184-m.jpg",
+      "authorname": "LimKengTiong",
+      "authorimg": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "date": "Apr 30th 2022",
+      "Like": 0,
+      "Comment": 0,
+      "description": "娘子炒的菜头粿 Fried Radish Cake"
+    },
+    {
+      "id": 14,
+      "img": "https://www.kindmeal.my/photos/moment/23/23875-45274-m.jpg",
+      "authorname": "karenkhong",
+      "authorimg": "https://www.kindmeal.my/photos/member/17/17405-s.jpg",
+      "date": "Apr 29th 2022",
+      "Like": 0,
+      "Comment": 0,
+      "description": "Spaghetti vegetable curry"
+    },
+    {
+      "id": 15,
+      "img": "https://www.kindmeal.my/photos/moment/23/23857-45216-m.jpg",
+      "authorname": "ChewLengLeng",
+      "authorimg": "https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+      "date": "Apr 29th 2022",
+      "Like": 0,
+      "camera": 5,
+      "Comment": 0,
+      "description": "随缘素，店里只提供外带，平时都是两到三样菜肴，如果需要套餐就可以通过Foodpanda 预定。,Royalty Vegan Cafe ,",
+      "facebookname": "御素坊 Royalty Vegan Cafe",
+      "Address": "no109-1,jalan dataran cheras 6 dataran perniagaan cheras belakong,cher.."
+    },
+    {
+      "id": 16,
+      "img": "https://www.kindmeal.my/photos/moment/23/23824-45116-m.jpg",
+      "authorname": "KenixLim",
+      "authorimg": "https://www.kindmeal.my/photos/member/19/19509-s.jpg",
+      "date": "Apr 29th 2022",
+      "Like": 0,
+      "camera": 5,
+      "Comment": 0,
+      "description": "☔又不懂要煮什么的时候，它👉Indonesia Soto Paste是我的救星🥰身体暖暖，肚子暖暖，肚子饱饱，超幸福😍"
+    },
+    {
+      "id": 17,
+      "img": "https://www.kindmeal.my/photos/moment/23/23868-45252-m.jpg",
+      "authorname": "YinYinBoey",
+      "authorimg": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "date": "May 5th 2020",
+      "Like": 0,
+      "Comment": 0,
+      "description": "For today’s salad, changing it up by adding some purple sweet potatoes, and finally added some coriander. I got the coriander on Tues but kept forgetting to use it, LOL..✅Organic Hong Kong Choy Sum✅Organic Japanese Cucumber✅Organic Green Kale✅Organic Tomato✅Organic Mung bean sprouts✅Organ",
+      "facebookname": "Raw Chef Yin",
+      "country": "malaysia"
+    },
+    {
+      "id": 18,
+      "img": "https://www.kindmeal.my/photos/moment/23/23865-45247-m.jpg",
+      "authorname": "LimKengTiong",
+      "authorimg": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "date": "Apr 28th 2022",
+      "Like": 0,
+      "camera": 5,
+      "Comment": 0,
+      "description": "麻坡的慈航素食茶楼 Kedai Makanan Fong Kim Kee at Muar 叻沙Laksa Noodles.. "
+    },
+    {
+      "id": 19,
+      "img": "https://www.kindmeal.my/photos/moment/23/23802-45044-m.jpg",
+      "authorname": "LimKengTiong",
+      "authorimg": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "date": "Apr 26th 2022",
+      "Like": 0,
+      "camera": 3,
+      "Comment": 0,
+      "description": "咖喱叻沙米粉面 Curry Laksa Noodle "
+    },
+    {
+      "id": 20,
+      "img": "https://www.kindmeal.my/photos/moment/23/23826-45120-m.jpg",
+      "authorname": "ChanElaine",
+      "authorimg": "https://www.kindmeal.my/photos/member/11/11524-s.jpg",
+      "date": "Apr 26th 2022",
+      "Like": 0,
+      "Comment": 0,
+      "description": "用包菜花做成的咕咾肉飯 😋 "
+    },
+    {
+      "id": 21,
+      "img": "https://www.kindmeal.my/photos/moment/23/23814-45077-m.jpg",
+      "authorname": "LimKengTiong",
+      "authorimg": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "date": "Apr 26th 2022",
+      "Like": 0,
+      "Comment": 0,
+      "description": "娘子的干炒老鼠粉+茶室的咖啡乌冰 "
+    },
+    {
+      "id": 22,
+      "img": "https://www.kindmeal.my/photos/moment/23/23847-45177-m.jpg",
+      "authorname": "VyVian",
+      "authorimg": "https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+      "date": "Apr 26th 2022",
+      "Like": 1,
+      "camera": 2,
+      "Comment": 0,
+      "description": "Their polo bun also nice. 😬 (forgot to post)",
+      "facebookname": "阿木冰室 Ah Muk Cha Chaan Teng",
+      "Address": "G3, Wisma Setapak 33, Jalan 3/23d, Off Jalan Genting Kelang, Taman Dan.."
+    },
+    {
+      "id": 23,
+      "img": "https://www.kindmeal.my/photos/moment/23/23821-45103-m.jpg",
+      "authorname": "CindyChang",
+      "authorimg": "https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+      "date": "Apr 25th 2022",
+      "Like": 0,
+      "camera": 3,
+      "Comment": 0,
+      "description": "很久沒來過吃了,早餐东炎咖哩😋 "
+    },
+    {
+      "id": 24,
+      "img": "https://www.kindmeal.my/photos/moment/23/23810-45063-m.jpg",
+      "authorname": "ChewLengLeng",
+      "authorimg": "https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+      "date": "Apr 25th 2022",
+      "Like": 0,
+      "camera": 5,
+      "Comment": 0,
+      "description": "ala carte RM15.00 onwards  Sala at Berjaya Times Square Add : LG 18A-2 , Lower Ground Floor, Berjaya Times Square, No.1, Jalan Imb.. ",
+      "facebookname": "Sala, Kuala Lumpur",
+      "Address": "A-03A-G Galeria Hartamas, No 21 Jalan 26A/70A Desa Sri Hartamas, 50480.."
+    }
+  ]
+}

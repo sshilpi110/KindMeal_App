@@ -1,0 +1,42 @@
+* {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.active {
+  background-color: #229760;
+  padding: 9px 22px;
+}
+
+.hide,
+.hideEmail {
+  display: none;
+  margin-bottom: 20px;
+}
+
+.show:hover + .hide,
+.showEmail:hover + .hideEmail {
+  display: block;
+  color: white;
+  background-color: #666666;
+  font-size: 11px;
+  padding: 5px;
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.NavLink {
+  text-align: center;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 40px;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* Footer -----------------------------------------------------------------------------------------------*/

@@ -1,0 +1,250 @@
+.userProfile {
+  margin: 0;
+  padding: 0;
+  /* background-image: url('https://www.kindmeal.my/images/default_member_cover-3.jpg'); */
+  /* box-shadow: 0 0 8px 8px white inset; */
+}
+
+.head_div img {
+  width: 100%;
+}
+.user {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 100px;
+  position: relative;
+  margin-top: -200px;
+  margin-bottom: 50px;
+}
+
+.user_img {
+  position: relative;
+  width: 220px;
+}
+.user_img img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border: 4px solid white;
+}
+
+.head_btn_div button {
+  margin-right: 20px;
+  margin-top: 50px;
+  padding: 7px;
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.706);
+  border-radius: 7px;
+  background-color: rgba(255, 255, 255, 0.542);
+  border: none;
+}
+.head_btn_div button:hover {
+  background-color: white;
+}
+.username_div {
+  position: relative;
+  padding-left: 430px;
+  margin-top: -50px;
+  padding-top: 10px;
+  background-color: rgba(255, 255, 255, 0.706);
+  width: 100%;
+}
+.username_div > div {
+  display: flex;
+  gap: 30px;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+.username_div div h1 {
+  font-size: 30px;
+  font-weight: 600;
+  color: black;
+}
+.username_div div h2 {
+  font-size: 25px;
+  margin-top: 6px;
+}
+.dot {
+  color: black;
+  font-size: 30px;
+}
+
+.share_btn_div button {
+  border: none;
+  width: 170px;
+  padding: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  border-radius: 6px;
+}
+.share_btn_div button:nth-child(1) {
+  background-color: #f43535;
+  cursor: pointer;
+}
+.share_btn_div button:nth-child(2) {
+  background-color: #0c6;
+  cursor: pointer;
+}
+.progress_div {
+  width: 1100px;
+  height: 220px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 5px 8px #ffd518c5;
+  background-color: #f4353520;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.progress_child {
+  display: grid;
+
+  margin-left: 40px;
+}
+.lives_saved {
+  font-size: 22px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.649);
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.progress_child h1 {
+  text-align: left;
+  font-size: 140px;
+  margin-left: 35px;
+  color: #0c6;
+}
+.question_mark {
+  background-color: gray;
+  border-radius: 50%;
+  padding: 2px;
+  padding-left: 7px;
+  padding-right: 7px;
+  color: white;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.flex {
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+}
+.prog {
+  margin-top: 0px;
+}
+.color_div {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 220px;
+  padding: 10px;
+  margin-top: -5px;
+}
+.color {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+}
+.color + label {
+  width: 200px;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.608);
+}
+.color:nth-child(1) {
+  background-color: #f53838;
+}
+.color2 {
+  background-color: #fdb45c;
+}
+.color3 {
+  background-color: #46bfbd;
+}
+.color4 {
+  background-color: #6af;
+}
+.batman_div {
+  display: flex;
+  text-align: center;
+}
+.batman_div p {
+  width: 180px;
+  margin-top: -5px;
+  text-align: center;
+  font-size: 11px;
+}
+.bat_lavel h4 {
+  font-size: 25px;
+  font-weight: 500;
+}
+.bat_lavel h5 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: -5px;
+}
+.Share_tweet {
+  display: flex;
+  justify-content: space-between;
+}
+.Share_tweet button {
+  border: none;
+  border-radius: 6px;
+  margin-right: 10px;
+  font-size: 14px;
+  color: white;
+  font-weight: 600;
+  padding: 3px 7px;
+  display: flex;
+  align-items: center;
+  /* width:150px; */
+  justify-content: space-between;
+}
+.Share_tweet button img {
+  height: 10px;
+
+  margin-right: 5px;
+}
+.Share_tweet button:nth-child(1) {
+  background-color: #0084ff;
+  width: 70px;
+}
+.Share_tweet button:nth-child(2) {
+  background-color: #00acee;
+  width: 70px;
+}
+
+.profile_main {
+  margin-top: 80px;
+}
+.profile_main div {
+  width: 380px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 150px auto;
+}
+.grid h5 {
+  margin-bottom: 10px;
+}
+.profile_main div p {
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.508);
+}
+.profile_main div h5 {
+  font-size: 18px;
+}
+.about_span {
+  color: rgba(0, 0, 0, 0.675);
+}
+.about_span:hover {
+  border-bottom: none;
+}

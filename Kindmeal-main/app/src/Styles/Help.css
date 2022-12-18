@@ -1,0 +1,89 @@
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  background: rgba(242, 242, 242, 0.227);
+}
+#bodybox9 {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 35px; */
+  width: 75%;
+  margin: auto;
+}
+#helpleft {
+  margin: 20px;
+  width: 23%;
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+}
+#helpleft h5 {
+  margin-top: 35px;
+}
+#helpleft img {
+  height: 70%;
+}
+#helpleft > div {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border-radius: 8px;
+  text-align: center;
+  padding: 20px;
+  height: 250px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.729);
+  background: rgba(250, 250, 250, 0.881);
+  margin-bottom: 30px;
+  cursor: pointer;
+
+  transition: all 1s;
+}
+#helpleft div:hover {
+  transform: scale(1.1);
+  background-color: white;
+}
+#helpright {
+  margin: 20px;
+  width: 73%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background: white;
+  padding: 30px;
+}
+#helpright > p {
+  font-size: 15px;
+  color: rgb(95, 93, 93);
+}
+#helpright > ul {
+  font-size: 15px;
+  color: rgb(95, 93, 93);
+  margin-left: 35px;
+}
+#helpright > .heading {
+  margin: 0px;
+  font-size: 35px;
+  color: rgba(0, 0, 0, 0.793);
+}
+#helpright > .sub-heading {
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.88);
+  margin-bottom: 4px;
+  margin-top: 25px;
+}
+span {
+  color: blue;
+  cursor: pointer;
+}
+span:hover {
+  border-bottom: 1px solid blue;
+}
+#tbut {
+  background: #1d9bf0;
+}
+#fbut {
+  background: #35619f;
+}
+#helpbottom {
+  display: flex;
+}
+#helpbottom > div > p {
+  font-size: 14px;
+  color: rgb(95, 93, 93);
+}

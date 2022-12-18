@@ -1,0 +1,286 @@
+.ynews {
+  width: 100%;
+  height: auto;
+  padding-bottom: 20px;
+  background-color: #f0f0f0;
+  margin: auto;
+  margin-bottom: 80px;
+}
+* {
+  color: #333333;
+}
+* {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+#mar {
+  padding: 35px 100px 10px 100px;
+  font-weight: 100;
+  /* margin: auto; */
+  text-align: left;
+  margin: auto;
+  width: 75%;
+  color: rgba(0, 0, 0, 0.725);
+  /* font-size: 30px; */
+}
+#mar h5 {
+  text-align: left;
+  font-size: 30px;
+}
+#mar p {
+  /* margin-top: 8px; */
+  font-size: 14px;
+}
+#mar1 {
+  /* font-size: 17px; */
+  font-weight: 50;
+}
+#mar a {
+  text-decoration: none;
+  color: blue;
+}
+.page,
+.flex-div {
+  margin: auto;
+  margin-top: -20px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1px 100px 8px 60px;
+  font-size: 20px;
+  width: 78%;
+  gap: 35px;
+}
+.page button {
+  margin-top: -10px;
+  padding: 8px;
+  padding-left: 22px;
+  padding-right: 22px;
+  font-size: 20px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.174);
+  border-radius: 8px;
+}
+.page-num {
+  display: flex;
+  gap: 10px;
+}
+#b2s {
+  color: blue;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-div {
+  padding: 30px 100px 8px 100px;
+}
+.flex-div .input-box {
+  padding: 8px;
+  width: 250px;
+  border-radius: 6px;
+  border: 0.3px solid rgba(0, 0, 0, 0.275);
+  font-size: 20px;
+  outline: none;
+  color: rgba(0, 0, 0, 0.687);
+}
+.flex-div button {
+  width: 220px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+.addShop {
+  width: 220px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #04be5a;
+  padding: 8px;
+  padding-left: 50px;
+}
+.flex-div button:nth-child(3) {
+  background-color: #f53838;
+}
+.flex-div button:nth-child(3):hover {
+  background-color: #aa1717c9;
+}
+.flex-div button:nth-child(4) {
+  background-color: #04be5a;
+}
+.flex-div .addShop:hover {
+  background-color: #058742c7;
+  color: white;
+}
+.flex-div2 {
+  padding: 0px 130px 0px 130px;
+  margin: auto;
+  margin-top: -50px;
+  width: 82%;
+}
+.flex-div2 button {
+  width: 220px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.632);
+  padding: 6px;
+  border-radius: 6px;
+  border: 0.5px solid rgba(0, 0, 0, 0.22);
+  cursor: pointer;
+}
+.flex-div2 button:hover {
+  background-color: rgba(0, 0, 0, 0.103);
+}
+.flex-div2 button:nth-child(1) {
+  background-color: #04be5a;
+  color: white;
+  border: none;
+}
+.pagination {
+  font-size: 20px;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 65%;
+  /* border:1px solid black */
+}
+
+.next {
+  margin-left: 62%;
+  /* border: 1px solid black; */
+  color: black;
+
+  /* padding: 8px; */
+}
+.next button {
+  width: 60px;
+}
+.border {
+  text-decoration: none;
+  color: black;
+}
+.gmap_iframe {
+  margin: auto;
+  height: 300px;
+  width: 500px;
+}
+.map-div {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+  width: 65%;
+  /* padding: 0px 70px 8px 80px; */
+  gap: 20px;
+  box-sizing: border-box;
+  margin: auto;
+  /* border: 1px solid black; */
+  /* margin-left: 220px; */
+  /* font-size: 14px; */
+}
+.child-div {
+  padding: 30px;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 8px;
+  /* height: auto; */
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.child-div h3,
+.child-div h4 {
+  font-weight: 400;
+  font-size: 25px;
+}
+.child-div h4 {
+  font-size: 20px;
+}
+.child-div p {
+  font-size: 13px;
+  line-height: normal;
+}
+.bottom-line {
+  margin-top: 5%;
+  color: #087ad9;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.bottom-line h4:hover {
+  text-decoration: underline;
+}
+
+/* Add Houses */
+.input-div {
+  width: 55%;
+  margin: auto;
+}
+.input-div h3 {
+  margin-left: 20px;
+  margin-top: -20px;
+}
+.input-div label {
+  margin-top: 10px;
+  font-size: 15px;
+}
+.input-div .input-child {
+  font-size: 16px;
+  margin-left: 4%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  color: rgba(0, 0, 0, 0.894);
+}
+.input-div div input,
+textarea {
+  width: 440px;
+  font-size: 16px;
+  padding: 10px;
+  border: 0.5px solid rgba(0, 0, 0, 0.253);
+  border-radius: 6px;
+  height: 40px;
+}
+.block-div textarea {
+  /* margin-top: -10px; */
+  height: 300px;
+}
+.block-div p {
+  margin-top: -10px;
+  margin-bottom: 6px;
+
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.591);
+}
+.submit-listing {
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background-color: #f53838;
+  margin-bottom: 20%;
+  margin-top: 4%;
+  margin-left: 30px;
+}
+.gmap_iframe {
+  width: 100%;
+  height: 200px;
+}
+
+.addShop {
+  text-decoration: none;
+}
+.page-item a {
+  color: blue;
+}
